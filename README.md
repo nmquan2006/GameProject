@@ -23,7 +23,7 @@ Người chơi sử dụng các phím để di chuyển tìm đường ra trong 
 | ↑ / W  | Jump                       |
 | ESC    | Back to main menu          |
 
-Ngoài ra để Tắt/Bật âm thanh có thể dễ dàng thao tác thông qua biểu tượng ![image](https://github.com/user-attachments/assets/2cc6553b-5bc1-4e5b-a01b-ecb214cca2f6)
+Ngoài ra để Tắt/Bật âm thanh có thể dễ dàng thao tác thông qua biểu tượng  <img src="[images/menu.png](https://github.com/user-attachments/assets/2cc6553b-5bc1-4e5b-a01b-ecb214cca2f6)" width="300">
 
 # Một số hình ảnh về game  
 
