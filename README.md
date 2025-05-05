@@ -36,8 +36,8 @@ Người chơi sử dụng các phím để di chuyển tìm đường ra trong 
 ### Cổng dịch chuyển
   ![image](https://github.com/user-attachments/assets/806cbcc2-9ec8-43b6-bd1e-d5de2b55c048)
 
+# Nguồn tham khảo
 
-
-
-Hỗ trợ bởi: chatGPT,  Lazy Foo (https://lazyfoo.net/tutorials/SDL/index.php).  
-References: - YouTube (https://www.youtube.com/watch?v=1KD4Ae0tX0g&list=PL-K0viiuJ2RctP5nlJlqmHGeh66-GOZR_)  
+**YouTube :** [Let's Make Games]([https://libsdl.org/](https://www.youtube.com/watch?v=QQzAHcojEKg&list=PLhfAbcv9cehhkG7ZQK0nfIGJC_C-wSLrx))  
+**YouTube :** [Madsycode](https://www.youtube.com/watch?v=1KD4Ae0tX0g&list=PL-K0viiuJ2RctP5nlJlqmHGeh66-GOZR_)
+ 
