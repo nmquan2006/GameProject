@@ -27,7 +27,7 @@ Người chơi sử dụng các phím để di chuyển tìm đường ra trong 
 # Một số hình ảnh về game  
 
 ## Main menu  
-                                                  ![image](https://github.com/user-attachments/assets/dce86470-7690-48ad-ae98-919425ca8aa5)
+  ![image](https://github.com/user-attachments/assets/dce86470-7690-48ad-ae98-919425ca8aa5)
 
 
 Hỗ trợ bởi: chatGPT,  Lazy Foo (https://lazyfoo.net/tutorials/SDL/index.php).  
