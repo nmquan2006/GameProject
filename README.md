@@ -5,7 +5,7 @@
 **• Lớp học :** K69I-CS1  
 **• Mã sinh viên :** 24021605  
 
-#🎮 SPACE MAZE : Trò chơi thoát khỏi mê cung  
+# 🎮 SPACE MAZE : Trò chơi thoát khỏi mê cung  
 **Space maze** là một trò chơi đơn giản và đầy thú vị nơi người chơi cần phải tìm được lối thoát ra khỏi mê cung trong thời gian nhất định  
 
 
