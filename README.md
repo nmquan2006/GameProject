@@ -12,7 +12,7 @@ Game được lập trình bằng **C++** và thư viện **SDL2**
 
 # ⚙️ Hướng dẫn chơi  
 
-Người chơi sử dụng các phím để di chuyển tìm đường ra trong khoảng thời gian 2 phút, đồng thời mỗi lượt chơi sẽ có x3 mạng.Hãy cố gắng hoàn thành game khi chưa hết giờ và tránh mất mạng nhé! 
+Người chơi sử dụng các phím để di chuyển tìm đường ra trong khoảng thời gian 2 phút, đồng thời mỗi lượt chơi sẽ có x3 mạng. Khi kết thúc trò chơi, nhấn phim ESC để trở về main menu. Hãy cố gắng hoàn thành game khi chưa hết giờ và tránh mất mạng nhé! 
 
 ## 🕹️ Điều khiển
 
