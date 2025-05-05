@@ -44,7 +44,7 @@ Người chơi sử dụng các phím để di chuyển tìm đường ra trong 
   **• YouTube :** [Madsycode](https://www.youtube.com/watch?v=1KD4Ae0tX0g&list=PL-K0viiuJ2RctP5nlJlqmHGeh66-GOZR_)  
   **• Website :** [Lazy Foo' Productions](https://lazyfoo.net/tutorials/SDL/index.php)  
   
-**• Hình ảnh :** chatGPT
+**• Hình ảnh :** chatGPT  
 **• Âm thanh :** [Pixabay](https://pixabay.com/vi/music/search/adventure/?form=MG0AV3)
 
  
