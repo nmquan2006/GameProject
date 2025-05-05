@@ -1,8 +1,7 @@
 # 🚀 Thông tin về dự án bài tập lớn  
 
 ## Tác giả  
-
-### ** • Họ và tên :** Nguyễn Minh Quân
+** • Họ và tên :** Nguyễn Minh Quân
 
 
 
