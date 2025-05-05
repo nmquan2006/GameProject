@@ -23,13 +23,12 @@ Người chơi sử dụng các phím để di chuyển tìm đường ra trong 
 | ↑ / W  | Jump                       |
 | ESC    | Back to main menu          |
 
-Ngoài ra để Tắt/Bật âm thanh có thể dễ dàng thao tác thông qua biểu tượng  
-
-                                                   ![Ảnh chụp màn hình 2025-05-05 221225](https://github.com/user-attachments/assets/7b4139af-96cb-47a4-8df1-949a1af5c3f7)
-
 
 # Một số hình ảnh về game  
 
- 
+## Main menu  
+                                                  ![image](https://github.com/user-attachments/assets/dce86470-7690-48ad-ae98-919425ca8aa5)
+
+
 Hỗ trợ bởi: chatGPT,  Lazy Foo (https://lazyfoo.net/tutorials/SDL/index.php).  
 References: - YouTube (https://www.youtube.com/watch?v=1KD4Ae0tX0g&list=PL-K0viiuJ2RctP5nlJlqmHGeh66-GOZR_)  
