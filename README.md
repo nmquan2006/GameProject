@@ -5,7 +5,7 @@ Hỗ trợ bởi: chatGPT,  Lazy Foo (https://lazyfoo.net/tutorials/SDL/index.ph
 References: - YouTube (https://www.youtube.com/watch?v=1KD4Ae0tX0g&list=PL-K0viiuJ2RctP5nlJlqmHGeh66-GOZR_)  
 
 Giới thiệu về dự án:
-![image](https://github.com/user-attachments/assets/7a6cdbbe-14f2-46ec-85c5-31aa1a94bddb)
+                          ![image](https://github.com/user-attachments/assets/7a6cdbbe-14f2-46ec-85c5-31aa1a94bddb)
 
 
 
