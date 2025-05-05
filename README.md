@@ -1,3 +1,9 @@
+# Thông tin về dự án bài tập lớn  
+
+
+
+
+
 Tác giả : Nguyễn Minh Quân  
 MSV : 24021605 
 K69I-CS1, University of Engineering and Technology.  
