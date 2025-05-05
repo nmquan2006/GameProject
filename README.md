@@ -6,7 +6,10 @@ References: - YouTube (https://www.youtube.com/watch?v=1KD4Ae0tX0g&list=PL-K0vii
 
 Giới thiệu về dự án:  
 
-![image](https://github.com/user-attachments/assets/7a6cdbbe-14f2-46ec-85c5-31aa1a94bddb)
+![image](https://github.com/user-attachments/assets/7a6cdbbe-14f2-46ec-85c5-31aa1a94bddb)  
+
+# 🚀 [Tên Game] - Hành trình phiêu lưu đầy thử thách!
+
 
 
 
