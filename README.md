@@ -11,20 +11,21 @@
 Game được lập trình bằng **C++** và thư viện **SDL2**  
 
 # ⚙️ Hướng dẫn chơi  
-Người chơi sử dụng các phím để di chuyển tìm đường ra  
 
-# Các phím bấm  
+Người chơi sử dụng các phím để di chuyển tìm đường ra trong khoảng thời gian 2 phút, đồng thời mỗi lượt chơi sẽ có x3 mạng.Hãy cố gắng hoàn thành game khi chưa hết giờ và tránh mất mạng nhé! 
 
-## Các phím bấm
+## 🕹️ Điều khiển
 
 |  Key   |      Action                |
 |--------|----------------------------|
 | ← / A  | Move left                  |
 | → / D  | Move right                 |
-| ↑ / W  | Jump                       |  
+| ↑ / W  | Jump                       |
+| ESC    | Back to main menu          |
 
+Ngoài ra để Tắt/Bật âm thanh có thể dễ dàng thao tác thông qua biểu tượng ![image](https://github.com/user-attachments/assets/2cc6553b-5bc1-4e5b-a01b-ecb214cca2f6)
 
-
+# Một số hình ảnh về game  
 
  
 Hỗ trợ bởi: chatGPT,  Lazy Foo (https://lazyfoo.net/tutorials/SDL/index.php).  
