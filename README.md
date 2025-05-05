@@ -27,7 +27,16 @@ Người chơi sử dụng các phím để di chuyển tìm đường ra trong 
 # Một số hình ảnh về game  
 
 ## Main menu  
-  ![image](https://github.com/user-attachments/assets/dce86470-7690-48ad-ae98-919425ca8aa5)
+  ![image](https://github.com/user-attachments/assets/dce86470-7690-48ad-ae98-919425ca8aa5)  
+## Nhân vật game và cổng dịch chuyển được vẽ tay  
+
+### Nhân vật
+  ![image](https://github.com/user-attachments/assets/a51f576d-f515-4b71-bc8d-8202853c198d)  
+
+### Cổng dịch chuyển
+  ![image](https://github.com/user-attachments/assets/806cbcc2-9ec8-43b6-bd1e-d5de2b55c048)
+
+
 
 
 Hỗ trợ bởi: chatGPT,  Lazy Foo (https://lazyfoo.net/tutorials/SDL/index.php).  
