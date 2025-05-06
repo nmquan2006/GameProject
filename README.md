@@ -10,7 +10,7 @@
 
 Game được lập trình bằng **C++** và thư viện **SDL2**  
 
-**Video demo :**  [Space Maze](https://youtu.be/8A5rgYZHxVk?si=ilD6_Q3IkhbHMcpC)
+**Video demo :**  [Space Maze](https://www.youtube.com/watch?v=7hg02-KpChY)
 
 # ⚙️ Hướng dẫn chơi  
 
