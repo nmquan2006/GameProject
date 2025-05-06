@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="MyGame" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/MyGame" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+					<Add directory="./" />
+					<Add directory="Graphics" />
+					<Add directory="Entities" />
+					<Add directory="Game" />
+					<Add directory="Map" />
+					<Add directory="Text" />
+					<Add directory="Audio" />
+					<Add directory="Menu" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/MyGame" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+					<Add directory="./" />
+					<Add directory="Graphics" />
+					<Add directory="Entities" />
+					<Add directory="Game" />
+					<Add directory="Map" />
+					<Add directory="Text" />
+					<Add directory="Audio" />
+					<Add directory="Menu" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="Audio/audio.cpp" />
+		<Unit filename="Audio/audio.h" />
+		<Unit filename="Entities/item.cpp" />
+		<Unit filename="Entities/item.h" />
+		<Unit filename="Entities/player.cpp" />
+		<Unit filename="Entities/player.h" />
+		<Unit filename="Game/game.cpp" />
+		<Unit filename="Game/game.h" />
+		<Unit filename="Graphics/graphics.cpp" />
+		<Unit filename="Graphics/graphics.h" />
+		<Unit filename="Map/map.cpp" />
+		<Unit filename="Map/map.h" />
+		<Unit filename="Menu/menu.cpp" />
+		<Unit filename="Menu/menu.h" />
+		<Unit filename="Text/Text.cpp" />
+		<Unit filename="Text/Text.h" />
+		<Unit filename="defs.h" />
+		<Unit filename="main.cpp" />
+		<Extensions>
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>
