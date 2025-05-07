@@ -19,7 +19,6 @@ void Map::loadMap(Graphics& graphics) {
 
 void Map::loadTileTextures(Graphics& graphics) {
     tileTextures[1] = graphics.loadTexture("img/ground.png");
-    tileTextures[2] = graphics.loadTexture("img/spike.png");
 }
 
 void Map::loadFromFile(const std::string& filename) {
