@@ -59,6 +59,9 @@ bool Menu::handleEvents(Audio& audio) {
 
     while (SDL_PollEvent(&e)) {
         if (e.type == SDL_QUIT) {
+            Mix_Quit();
+            TTF_Quit();
+            SDL_Quit();
             return false;
         }
 
