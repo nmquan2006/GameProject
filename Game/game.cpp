@@ -208,5 +208,9 @@ void Game::run() {
             SDL_Delay(frameDelay - frameTime);
         }
     }
+
+    Mix_Quit();
+    TTF_Quit();
+    SDL_Quit();
 }
 
