@@ -104,6 +104,8 @@ void Game::renderTimer() {
 
 void Game::update() {
     gundam.update();
+    
+    if (isWin || isLose) return;
 
     // Cuộn background
     bgOffsetX -= BG_SCROLL_SPEED;
@@ -117,8 +119,6 @@ void Game::update() {
     if (graphics.isContact(gundamBox, gate.getBoundingBox())) {
          isWin = true;
     }
-
-    if (isWin) return;
 
     if (gundam.lifeCount == 0 || getRemainingTime() == 0) {
         isLose = true;
